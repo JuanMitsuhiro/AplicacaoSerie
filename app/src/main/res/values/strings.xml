@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AplicacaoSerie</string>
+
+    <string name="insirir"> Insira um número</string>
+    <string name="calcular"> Calcular</string>
+    <string name="resultado"> Serie =</string>
+</resources>
